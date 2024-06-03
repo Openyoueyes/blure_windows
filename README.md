@@ -3,7 +3,7 @@ This Python script automates clicking on specific pixels in the BlumCryptoBot ga
 Installation
 Clone the Repository:
 
-git clone https://github.com/code2026r/Blum-Crypto-Bot-Auto-Clicker.git
+git clone https://git@github.com:Openyoueyes/blure_windows.git
 Install Dependencies:
 
 pip install -r requirements.txt
