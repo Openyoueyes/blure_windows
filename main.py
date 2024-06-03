@@ -9,7 +9,6 @@ from pynput.mouse import Button, Controller
 mouse = Controller()
 time.sleep(0.5)
 
-
 def click(x, y):
     mouse.position = (x, y + random.randint(1, 3))
     mouse.press(Button.left)
